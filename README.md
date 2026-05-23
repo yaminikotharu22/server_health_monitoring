@@ -1,2 +1,24 @@
-# server_health_monitoring
-This project is a lightweight Server Health Monitoring Tool built using Python. It monitors real-time system performance including CPU usage, RAM usage, and disk space using the psutil library. The project helps in understanding system resource management and introduces basic DevOps monitoring concepts.
+📌 Project Overview
+
+The Server Health Monitor Tool is a Python-based project designed to monitor system performance in real time. It helps track important system resources such as CPU usage, RAM usage, and disk space.
+
+This project is useful for understanding basic DevOps monitoring concepts and system automation.
+
+---
+
+🚀 Features
+
+- Real-time CPU usage monitoring
+- RAM/Memory usage tracking
+- Disk space monitoring
+- Continuous system performance display
+- Lightweight and simple terminal-based tool
+
+---
+
+🛠️ Technologies Used
+
+- Python
+- psutil Library
+- VS Code
+- 
