@@ -12,11 +12,10 @@ This project is useful for understanding basic DevOps monitoring concepts and sy
 - Disk space monitoring
 - Continuous system performance display
 - Lightweight and simple terminal-based tool
-
----
+- 
+- -----
 
 **Technologies Used**
-
 - Python
 - psutil Library
 - VS Code
